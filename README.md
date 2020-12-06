@@ -1,4 +1,4 @@
-
+![](https://www.codewars.com/assets/logos/logo-square-red-big-c74ae0e7a89b33acd3beb1f08229630391934650e3bbd30ddc40e8be5bbfc71e.png)
 ![](https://images.app.goo.gl/rvjEBYevT7VEBHMr9)
 
 ---
