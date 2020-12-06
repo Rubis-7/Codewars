@@ -1,5 +1,5 @@
 
-![]([URL=https://hostingkartinok.com/show-image.php?id=dfd687897599bfb720f1fd13b1354b1c][IMG]https://s8.hostingkartinok.com/uploads/thumbs/2020/12/dfd687897599bfb720f1fd13b1354b1c.png[/IMG][/URL])
+![](https://hkar.ru/13snq)
 
 ---
 
