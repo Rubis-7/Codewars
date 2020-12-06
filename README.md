@@ -1,5 +1,5 @@
 
-![](https://hkar.ru/13snq)
+![](https://images.app.goo.gl/rvjEBYevT7VEBHMr9)
 
 ---
 
