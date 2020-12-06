@@ -13,9 +13,7 @@
 - 3kyu, 4kyu - Компетентный
 - 1kyu, 2kyu - Умелдец
 
-[Мой текущий ранг](https://www.codewars.com/users/MrBeean):
-
-<img src=https://www.codewars.com/users/MrBeean/badges/large>
+[My profile](https://www.codewars.com/users/Rubis-7)
 
 ---
 
