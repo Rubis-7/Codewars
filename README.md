@@ -10,7 +10,7 @@
 - 7kyu, 8kyu - Новичек
 - 5kyu, 6kyu - Послушник
 - 3kyu, 4kyu - Компетентный
-- 1kyu, 2kyu - Умелдец
+- 1kyu, 2kyu - Умелец
 
 [My profile](https://www.codewars.com/users/Rubis-7)
 
