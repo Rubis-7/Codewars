@@ -19,5 +19,5 @@
 Ниже список выполненных моих заданий:
 
 ### <a name="8kyu">8 kyu</a>
-  * [CodeWars](https://www.codewars.com/kata/571edd157e8954bab500032d) - [Training JS #2 Basic data types--Number](./SolutionsJS/8kyu)
+  * [CodeWars](https://www.codewars.com/kata/571edd157e8954bab500032d) - [Training JS #2 Basic data types--Number](./SolutionsJS/8kyu/BrokenCounter.js)
 ---
