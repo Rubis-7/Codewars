@@ -33,3 +33,4 @@
   * [CodeWars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) - [Remove the minimum](./SolutionsJS/7kyu/RemoveTheMinimum.js)
   ### <a name="6kyu">6 kyu</a>
   * [CodeWars](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) - ["this" is an other solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)
+  * [CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) - [Unique In Order](./SolutionsJS/6kyu/UniqueInOrder.js)
