@@ -20,4 +20,16 @@
 
 ### <a name="8kyu">8 kyu</a>
   * [CodeWars](https://www.codewars.com/kata/571edd157e8954bab500032d) - [Training JS #2 Basic data types--Number](./SolutionsJS/8kyu/TrainingJS2BasicDataTypesNumber.js)
----
+  * [CodeWars](https://www.codewars.com/kata/571edea4b625edcb51000d8e) - [Training JS #3: Basic data types--String](./SolutionsJS/8kyu/TrainingJS3BasicDataTypesString.js)
+  * [CodeWars](https://www.codewars.com/kata/571effabb625ed9b0600107a) - [Training JS #4: Basic data types--Array](./SolutionsJS/8kyu/TrainingJS4BasicDataTypesArray.js)
+  * [CodeWars](https://www.codewars.com/kata/571f1eb77e8954a812000837) - [Training JS #5: Basic data types--Object](./SolutionsJS/8kyu/TrainingJS5BasicDataTypesObject.js)
+  * [CodeWars](https://www.codewars.com/kata/571f832f07363d295d001ba8) - [Training JS #6: Basic data types--Boolean and conditional statements if..else](./SolutionsJS/8kyu/TrainingJS6BasicDataTypesBooleanAndConditionalStatementsIfElse.js)
+  * [CodeWars](https://www.codewars.com/kata/526471539d52735c620000c6/javascript) - [Broken Counter](./SolutionsJS/8kyu/BrokenCounter.js)
+  * [CodeWars](https://www.codewars.com/kata/57eaeb9578748ff92a000009/javascript) - [Sum Mixed Array](./SolutionsJS/8kyu/SumMixedArray.js)
+  * [CodeWars](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/javascript) - [Switch it Up!](./SolutionsJS/8kyu/SwitchItUp!.js)
+### <a name="7kyu">7 kyu</a>
+  * [CodeWars](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e/javascript) - [Form The Largest](./SolutionsJS/7kyu/FormTheLargest.js)
+  * [CodeWars](https://www.codewars.com/kata/557e508a47c7e9adf9000062/javascript) - [JS Prototypes Module #1 - Object Prototypes](./SolutionsJS/7kyu/JSPrototypesModule1ObjectPrototypes.js)
+  * [CodeWars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) - [Remove the minimum](./SolutionsJS/7kyu/RemoveTheMinimum.js)
+  ### <a name="6kyu">6 kyu</a>
+  * [CodeWars](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) - ["this" is an other solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)
