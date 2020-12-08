@@ -34,3 +34,7 @@
   ### <a name="6kyu">6 kyu</a>
   * [CodeWars](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) - ["this" is an other solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)
   * [CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) - [Unique In Order](./SolutionsJS/6kyu/UniqueInOrder.js)
+  * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing Balls](./SolutionsJS/6kyu/BouncingBalls.js)
+  * [CodeWars](https://www.codewars.com/kata/52761ee4cffbc69732000738 ) - [Good vs Evil](./SolutionsJS/6kyu/GoodVsEvil.js)
+  * [CodeWars](https://www.codewars.com/kata/title-case/javascript) - [Title Case](./SolutionsJS/6kyu/TitleCase.js)
+  * [CodeWars](https://www.codewars.com/kata/your-order-please/train/javascript) - [Your order, please](./SolutionsJS/6kyu/YourOrderPlease.js)
