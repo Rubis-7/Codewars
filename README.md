@@ -41,3 +41,4 @@
   * [CodeWars](https://www.codewars.com/kata/52761ee4cffbc69732000738 ) - [Good vs Evil](./SolutionsJS/6kyu/GoodVsEvil.js)
   * [CodeWars](https://www.codewars.com/kata/title-case/javascript) - [Title Case](./SolutionsJS/6kyu/TitleCase.js)
   * [CodeWars](https://www.codewars.com/kata/your-order-please/train/javascript) - [Your order, please](./SolutionsJS/6kyu/YourOrderPlease.js)
+  * [CodeWars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) - [Who likes it?](./SolutionsJS/6kyu/YourOrderPlease.js)
