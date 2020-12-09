@@ -31,6 +31,7 @@
   * [CodeWars](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e/javascript) - [Form The Largest](./SolutionsJS/7kyu/FormTheLargest.js)
   * [CodeWars](https://www.codewars.com/kata/557e508a47c7e9adf9000062/javascript) - [JS Prototypes Module #1 - Object Prototypes](./SolutionsJS/7kyu/JSPrototypesModule1ObjectPrototypes.js)
   * [CodeWars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) - [Remove the minimum](./SolutionsJS/7kyu/RemoveTheMinimum.js)
+  * [CodeWars](https://www.codewars.com/kata/letterbox-paint-squad/train/javascript) - [Letterbox Paint-Squad](./SolutionsJS/7kyu/RemoveTheMinimum.js)
   ### <a name="6kyu">6 kyu</a>
   * [CodeWars](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) - ["this" is an other solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)
   * [CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) - [Unique In Order](./SolutionsJS/6kyu/UniqueInOrder.js)
