@@ -35,10 +35,10 @@
   * [JavaScript class-like objects](https://www.codewars.com/kata/javascript-class-like-objects/train/javascript) -> [[Solution](./SolutionsJS/7kyu/JavaScriptClasslikeObjects.js)]
   * [zero-balanced Array](https://www.codewars.com/kata/zero-balanced-array/train/javascript) -> [[Solution](./SolutionsJS/7kyu/ZeroBalancedArray.js)]
   ### <a name="6kyu">6 kyu</a>
-  * [CodeWars](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) - ["this" is an other solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)
-  * [CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) - [Unique In Order](./SolutionsJS/6kyu/UniqueInOrder.js)
-  * [CodeWars](https://www.codewars.com/kata/bouncing-balls/train/javascript) - [Bouncing Balls](./SolutionsJS/6kyu/BouncingBalls.js)
-  * [CodeWars](https://www.codewars.com/kata/52761ee4cffbc69732000738 ) - [Good vs Evil](./SolutionsJS/6kyu/GoodVsEvil.js)
-  * [CodeWars](https://www.codewars.com/kata/title-case/javascript) - [Title Case](./SolutionsJS/6kyu/TitleCase.js)
-  * [CodeWars](https://www.codewars.com/kata/your-order-please/train/javascript) - [Your order, please](./SolutionsJS/6kyu/YourOrderPlease.js)
-  * [CodeWars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) - [Who likes it?](./SolutionsJS/6kyu/WholikesIt.js)
+  * ["this" is an other solution](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) -> [[Solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)]
+  * [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) -> [[Solution](./SolutionsJS/6kyu/UniqueInOrder.js)]
+  * [Bouncing Balls](https://www.codewars.com/kata/bouncing-balls/train/javascript) -> [[Solution](./SolutionsJS/6kyu/BouncingBalls.js)]
+  * [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738 ) -> [[Solution](./SolutionsJS/6kyu/GoodVsEvil.js)]
+  * [Title Case](https://www.codewars.com/kata/title-case/javascript) -> [[Solution](./SolutionsJS/6kyu/TitleCase.js)]
+  * [Your order, please](https://www.codewars.com/kata/your-order-please/train/javascript) -> [[Solution](./SolutionsJS/6kyu/YourOrderPlease.js)]
+  * [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) -> [[Solution](./SolutionsJS/6kyu/WholikesIt.js)]
