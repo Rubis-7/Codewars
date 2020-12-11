@@ -42,3 +42,5 @@
   * [Title Case](https://www.codewars.com/kata/title-case/javascript) -> [[Solution](./SolutionsJS/6kyu/TitleCase.js)]
   * [Your order, please](https://www.codewars.com/kata/your-order-please/train/javascript) -> [[Solution](./SolutionsJS/6kyu/YourOrderPlease.js)]
   * [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) -> [[Solution](./SolutionsJS/6kyu/WholikesIt.js)]
+  ### <a name="5kyu">5 kyu</a>
+  * [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript) -> [[Solution](./SolutionsJS/5kyu/ValidParentheses.js)]
