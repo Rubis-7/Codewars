@@ -44,3 +44,4 @@
   * [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript) -> [[Solution](./SolutionsJS/6kyu/WholikesIt.js)]
   ### <a name="5kyu">5 kyu</a>
   * [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript) -> [[Solution](./SolutionsJS/5kyu/ValidParentheses.js)]
+  * [Now that's a crib!](https://www.codewars.com/kata/58360d112fb0ba255300008b/train/javascript) -> [[Solution](./SolutionsJS/5kyu/NowThat'sACrib!.js)]
