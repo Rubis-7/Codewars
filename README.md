@@ -34,6 +34,8 @@
   * [Letterbox Paint-Squad](https://www.codewars.com/kata/letterbox-paint-squad/train/javascript) -> [[Solution](./SolutionsJS/7kyu/LetterboxPaintSquad.js)]
   * [JavaScript class-like objects](https://www.codewars.com/kata/javascript-class-like-objects/train/javascript) -> [[Solution](./SolutionsJS/7kyu/JavaScriptClasslikeObjects.js)]
   * [zero-balanced Array](https://www.codewars.com/kata/zero-balanced-array/train/javascript) -> [[Solution](./SolutionsJS/7kyu/ZeroBalancedArray.js)]
+  * [Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a/train/javascript) -> [[Solution](./SolutionsJS/7kyu/Don'tGiveMeFive!.js)]
+  * [Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/train/javascript) -> [[Solution](./SolutionsJS/7kyu/GetTheMiddleCharacter.js)]
   ### <a name="6kyu">6 kyu</a>
   * ["this" is an other solution](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) -> [[Solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)]
   * [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) -> [[Solution](./SolutionsJS/6kyu/UniqueInOrder.js)]
