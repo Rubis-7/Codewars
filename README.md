@@ -52,3 +52,4 @@
   * [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript) -> [[Solution](./SolutionsJS/5kyu/ValidParentheses.js)]
   * [Now that's a crib!](https://www.codewars.com/kata/58360d112fb0ba255300008b/train/javascript) -> [[Solution](./SolutionsJS/5kyu/NowThat'sACrib!.js)]
   * [Human Readable Time](https://www.codewars.com/kata/human-readable-time/train/javascript) -> [[Solution](./SolutionsJS/5kyu/HumanReadableTime.js)]
+  * [Maximum subarray sum](https://www.codewars.com/kata/maximum-subarray-sum/train/javascript) -> [[Solution](./SolutionsJS/5kyu/MaximumSubarraySum.js)]
