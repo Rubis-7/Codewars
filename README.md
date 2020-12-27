@@ -38,6 +38,7 @@
   * [Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character/train/javascript) -> [[Solution](./SolutionsJS/7kyu/GetTheMiddleCharacter.js)]
   * [Growth of a Population](https://www.codewars.com/kata/growth-of-a-population/train/javascript) -> [[Solution](./SolutionsJS/7kyu/GrowthOfAPopulation.js)]
   * [You're a square!](https://www.codewars.com/kata/youre-a-square/train/javascript) -> [[Solution](./SolutionsJS/7kyu/You'reASquare!.js)]
+  * [Most digits](https://www.codewars.com/kata/most-digits/train/javascript) -> [[Solution](./SolutionsJS/7kyu/MostDigits.js)]
   ### <a name="6kyu">6 kyu</a>
   * ["this" is an other solution](https://www.codewars.com/kata/54834b3559e638b39d0009a2/solutions/javascript) -> [[Solution](./SolutionsJS/6kyu/thisIsAnOtherSolution.js)]
   * [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) -> [[Solution](./SolutionsJS/6kyu/UniqueInOrder.js)]
