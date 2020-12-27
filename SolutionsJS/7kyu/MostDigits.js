@@ -1,0 +1,1 @@
+findLongest = arr => arr.sort((a, b) => (b + '').length - (a + '').length)[0]
