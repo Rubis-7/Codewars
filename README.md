@@ -28,7 +28,7 @@
   * [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/javascript) -> [[Solution](./SolutionsJS/8kyu/SumMixedArray.js)]
   * [Switch it Up!](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/javascript) -> [[Solution](./SolutionsJS/8kyu/SwitchItUp!.js)]
   * [Difference of Volumes of Cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/solutions/javascript) -> [[Solution]
-(./SolutionsJS/8kyu/DifferenceofVolumesofCuboids.js)]
+(./SolutionsJS/8kyu/DifferenceOfVolumesOfCuboids.js)]
 ### <a name="7kyu">7 kyu</a>
   * [Form The Largest](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e/javascript) -> [[Solution](./SolutionsJS/7kyu/FormTheLargest.js)]
   * [JS Prototypes Module #1 - Object Prototypes](https://www.codewars.com/kata/557e508a47c7e9adf9000062/javascript) -> [[Solution](./SolutionsJS/7kyu/JSPrototypesModule1ObjectPrototypes.js)]
