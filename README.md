@@ -19,6 +19,7 @@
 Ниже список выполненных моих заданий:
 
 ### <a name="8kyu">8 kyu</a>
+  * [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript) -> [[Solution](./SolutionsJS/8kyu/VolumeOfACuboid.js)]
   * [Training JS #2 Basic data types--Number](https://www.codewars.com/kata/571edd157e8954bab500032d) -> [[Solution](./SolutionsJS/8kyu/TrainingJS2BasicDataTypesNumber.js)]
   * [Training JS #3: Basic data types--String](https://www.codewars.com/kata/571edea4b625edcb51000d8e) -> [[Solution](./SolutionsJS/8kyu/TrainingJS3BasicDataTypesString.js)]
   * [Training JS #4: Basic data types--Array](https://www.codewars.com/kata/571effabb625ed9b0600107a) -> [[Solution](./SolutionsJS/8kyu/TrainingJS4BasicDataTypesArray.js)]
