@@ -19,6 +19,7 @@
 Ниже список выполненных моих заданий:
 
 ### <a name="8kyu">8 kyu</a>
+  * [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript) -> [[Solution](./SolutionsJS/8kyu/MergeTwoSortedArraysIntoOne.js)]
   * [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript) -> [[Solution](./SolutionsJS/8kyu/VolumeOfACuboid.js)]
   * [Training JS #2 Basic data types--Number](https://www.codewars.com/kata/571edd157e8954bab500032d) -> [[Solution](./SolutionsJS/8kyu/TrainingJS2BasicDataTypesNumber.js)]
   * [Training JS #3: Basic data types--String](https://www.codewars.com/kata/571edea4b625edcb51000d8e) -> [[Solution](./SolutionsJS/8kyu/TrainingJS3BasicDataTypesString.js)]
