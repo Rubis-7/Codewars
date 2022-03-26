@@ -19,7 +19,7 @@
 Ниже список выполненных моих заданий:
 
 ### <a name="8kyu">8 kyu</a>
-* [Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/CountOddNumbersBelowN.js)]
+  * [Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/CountOddNumbersBelowN.js)]
   * [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript) -> [[Solution](./SolutionsJS/8kyu/MergeTwoSortedArraysIntoOne.js)]
   * [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript) -> [[Solution](./SolutionsJS/8kyu/VolumeOfACuboid.js)]
   * [Training JS #2 Basic data types--Number](https://www.codewars.com/kata/571edd157e8954bab500032d) -> [[Solution](./SolutionsJS/8kyu/TrainingJS2BasicDataTypesNumber.js)]
