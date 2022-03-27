@@ -19,6 +19,9 @@
 Ниже список выполненных моих заданий:
 
 ### <a name="8kyu">8 kyu</a>
+  * [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/Beginner-LostWithoutAMap.js)]
+  * [Function 3 - multiplying two numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/Function3-MultiplyingTwoNumbers.js)]
+  * [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/ConvertAStringToAnArray.js)]
   * [Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/CountOddNumbersBelowN.js)]
   * [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript) -> [[Solution](./SolutionsJS/8kyu/MergeTwoSortedArraysIntoOne.js)]
   * [Volume of a Cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript) -> [[Solution](./SolutionsJS/8kyu/VolumeOfACuboid.js)]
