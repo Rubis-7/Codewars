@@ -19,6 +19,7 @@
 Ниже список выполненных моих заданий:
 
 ### <a name="8kyu">8 kyu</a>
+  * [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/EvenOrOdd.js)]
   * [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/IfYouCan'tSleep,JustCountSheep!!.js)]
   * [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/Beginner-LostWithoutAMap.js)]
   * [Function 3 - multiplying two numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/Function3-MultiplyingTwoNumbers.js)]
