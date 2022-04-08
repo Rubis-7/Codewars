@@ -19,6 +19,7 @@
 Ниже список выполненных моих заданий:
 
 ### <a name="8kyu">8 kyu</a>
+  * [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) -> [[Solution](./SolutionsJS/8kyu/OppositeNumber.js)]
   * [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript) -> [[Solution](./SolutionsJS/8kyu/SumOfPositive.js)]
   * [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/EvenOrOdd.js)]
   * [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/solutions/javascript) -> [[Solution](./SolutionsJS/8kyu/IfYouCan'tSleep,JustCountSheep!!.js)]
